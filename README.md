@@ -1,3 +1,1 @@
-# NinjaXorg
-
-Not an X servers at all.
+we'll be back soon...
